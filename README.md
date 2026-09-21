@@ -236,6 +236,4 @@ mcpilot/
 
 ---
 
-## License
 
-MIT
